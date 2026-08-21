@@ -1,4 +1,4 @@
-# Acesso para o repositório da atividade 3
+# Acesso para os repositórios da atividade 3
 
 [repositório do react](https://github.com/GuilhermeStecker/reactpage)
 ---
