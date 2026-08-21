@@ -2,7 +2,7 @@
 
 [repositório do react](https://github.com/GuilhermeStecker/reactpage)
 ---
-[repositório do vue](https://github.com/kevin3068/gerador-de-citacoes)
+[repositório do vue](https://github.com/kevin3068/lista-de-tarefas-vue)
 ---
 [repositório do angular](https://github.com/Johann-Fera/angular)
 ---
