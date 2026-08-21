@@ -6,7 +6,7 @@
 ---
 [repositório do vue](https://github.com/kevin3068/lista-de-tarefas-vue)
 |
-[vercel]()
+[vercel](https://lista-de-tarefas-vue-fixed.vercel.app)
 ---
 [repositório do angular](https://github.com/Johann-Fera/angular)
 |
@@ -18,5 +18,5 @@
 ---
 [repositório da copia de outro alguem da net](https://github.com/Johann-Fera/projeto_copia.git)
 |
-[vercel]()
+[vercel](https://projeto-copia-puce.vercel.app/)
 ---
