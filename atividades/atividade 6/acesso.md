@@ -1,4 +1,4 @@
-# Acesso para o repositório da atividade 6 e 6_2
+# Acesso para os repositórios das atividades 6 e 6_2
 
 [repositório css simples](https://github.com/Johann-Fera/html---css-simples.git)
 
