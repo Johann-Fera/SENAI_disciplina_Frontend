@@ -28,12 +28,12 @@ html com tailwind
 
 classes usadas
 
-max-w-3xs: max-width: 16rem;
-aspect-square: aspect-ratio: 1 / 1;
-bg-yellow-300: background-color: oklch(90.5% 0.182 98.111);
-bg-green-500: background-color: oklch(72.3% 0.219 149.579);
-p-5: padding: 5px;
-border-10: border-width: 10px;
-border-solid: border-style: solid;
-border-stone-500: border-color: oklch(55.3% 0.013 58.071);
-m-10: margin: 10px;
+- max-w-3xs: max-width: 16rem;
+- aspect-square: aspect-ratio: 1 / 1;
+- bg-yellow-300: background-color: oklch(90.5% 0.182 98.111);
+- bg-green-500: background-color: oklch(72.3% 0.219 149.579);
+- p-5: padding: 5px;
+- border-10: border-width: 10px;
+- border-solid: border-style: solid;
+- border-stone-500: border-color: oklch(55.3% 0.013 58.071);
+- m-10: margin: 10px;
